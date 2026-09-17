@@ -45,7 +45,7 @@ exit
 
 ---
 
-## ROUTEUR – Sécurisation
+## ROUTEUR - Sécurisation
 ```
 enable
 conf t
@@ -75,7 +75,7 @@ exit
 
 ---
 
-## SWITCH1 – VLANs et Ports
+## SWITCH1 - VLANs et Ports
 
 ### Création des VLANs
 ```
@@ -127,7 +127,7 @@ wr
 
 ---
 
-## ROUTEUR – Routage Inter-VLAN
+## ROUTEUR - Routage Inter-VLAN
 
 ### Activation du routage
 ```
@@ -164,7 +164,7 @@ exit
 
 ---
 
-## ROUTEUR – DHCP par VLAN
+## ROUTEUR - DHCP par VLAN
 ```
 enable
 conf t
@@ -203,7 +203,7 @@ wr
 
 ---
 
-## ROUTEUR – Configuration de l’heure
+## ROUTEUR - Configuration de l’heure
 ```
 enable
 configure terminal
