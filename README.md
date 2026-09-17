@@ -1,5 +1,5 @@
 PROJET LAPLATEFORME - 13002 - MARSEILLE - TEST DE PRÉ-SELECTION MASTER CYBERSÉCURITÉ
-# Configuration Réseau Cisco – SWITCHS, ROUTEUR, VLANs, DHCP, NTP
+# Configuration Réseau Cisco – SWITCHS, ROUTEUR, VLANs, DHCP
 
 ## Objectif
 Configurer un réseau complet incluant :
