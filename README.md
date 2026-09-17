@@ -2,7 +2,7 @@
 PROJET LAPLATEFORME - 13002 - MARSEILLE - TEST DE PRÉ-SELECTION MASTER CYBERSÉCURITÉ
 # Configuration Réseau Cisco – SWITCHS, ROUTEUR, VLANs, DHCP
 <img width="1900" height="912" alt="kkkkk" src="https://github.com/user-attachments/assets/86728162-c2c9-433b-b8a6-419fd70c366f" />
-## Objectif
+Objectif
 Configurer un réseau complet incluant :
 - Un switch 2960
 - Un routeur 1941
